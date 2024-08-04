@@ -3,7 +3,7 @@
 # AZ-900 Fundamental Links
 
 ### This repository is provided as a reference
-### Updated 8/19/2023
+### Updated 12/31/2023
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
